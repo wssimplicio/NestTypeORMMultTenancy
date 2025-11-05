@@ -1,0 +1,14 @@
+# Ignorar node_modules de ambos os projetos
+api-pessoa/node_modules/
+api-rede/node_modules/
+
+# Ignorar builds
+api-pessoa/dist/
+api-rede/dist/
+
+# Logs
+**/logs/
+*.log
+
+# Env files
+**/.env
