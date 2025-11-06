@@ -6,6 +6,9 @@ api-rede/node_modules/
 api-pessoa/dist/
 api-rede/dist/
 
+# ignora data
+data
+
 # Logs
 **/logs/
 *.log
